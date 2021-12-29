@@ -1,0 +1,6 @@
+[submodule "Evolution-Guided Policy Gradient in Reinforcement Learning"]
+    path = odqa
+	url = https://github.com/ShawK91/Evolutionary-Reinforcement-Learning.git
+[submodule "DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills"]
+	path = vqa
+	url = https://github.com/xbpeng/DeepMimic.git
