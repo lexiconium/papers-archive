@@ -19,3 +19,34 @@ DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character
 AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control
 [[paper](https://xbpeng.github.io/projects/AMP/2021_TOG_AMP.pdf)]
 [[github](https://github.com/xbpeng/DeepMimic)]
+
+## NLP
+
+LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention
+[[paper](https://arxiv.org/pdf/2010.01057.pdf)]
+
+Cluster-Former: Clustering-based Sparse Transformer for Question Answering
+[[paper](https://arxiv.org/pdf/2009.06097.pdf)]
+
+Multi-passage BERT: A Globally Normalized BERT Model for Open-domain Question Answering
+[[paper](https://arxiv.org/pdf/1908.08167.pdf)]
+
+Retrospective Reader for Machine Reading Comprehension
+[[paper](https://arxiv.org/pdf/2001.09694.pdf)]
+
+Sparse Sequence-to-Sequence Models
+[[paper](https://arxiv.org/pdf/1905.05702.pdf)]
+
+Sparse Text Generation
+[[paper](https://arxiv.org/pdf/2004.02644.pdf)]
+
+Implicit Maximum Likelihood Estimation
+[[paper](https://arxiv.org/pdf/1809.09087.pdf)]
+
+Natural Language Generation Using Reinforcement Learning with External Rewards
+[[paper](https://arxiv.org/pdf/1911.11404.pdf)]
+
+## CV
+
+Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss
+[[paper](https://arxiv.org/pdf/1906.07413.pdf)]
