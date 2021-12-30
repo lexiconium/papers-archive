@@ -46,6 +46,9 @@ Implicit Maximum Likelihood Estimation
 Natural Language Generation Using Reinforcement Learning with External Rewards
 [[paper](https://arxiv.org/pdf/1911.11404.pdf)]
 
+∞-former: Infinite Memory Transformer
+[[paper](https://arxiv.org/pdf/2109.00301.pdf)]
+
 ## CV
 
 Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss
