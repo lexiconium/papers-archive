@@ -1,4 +1,4 @@
-# Papers
+# List of Papers
 
 ## RL
 
@@ -50,3 +50,7 @@ Natural Language Generation Using Reinforcement Learning with External Rewards
 
 Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss
 [[paper](https://arxiv.org/pdf/1906.07413.pdf)]
+
+## ETC
+Gradients are Not All You Need
+[[paper](https://arxiv.org/pdf/2111.05803.pdf)]
