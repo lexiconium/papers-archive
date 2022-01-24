@@ -20,6 +20,10 @@ AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control
 [[paper](https://xbpeng.github.io/projects/AMP/2021_TOG_AMP.pdf)]
 [[github](https://github.com/xbpeng/DeepMimic)]
 
+Learning Time-Critical Responses for Interactive Character Control
+[[paper](https://mrl.snu.ac.kr/research/ProjectAgile/AGILE_2021_SIGGRAPH_author.pdf)]
+[[github](https://github.com/snumrl/TimeCriticalResponse)]
+
 ## NLP
 
 LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention
