@@ -24,6 +24,9 @@ Learning Time-Critical Responses for Interactive Character Control
 [[paper](https://mrl.snu.ac.kr/research/ProjectAgile/AGILE_2021_SIGGRAPH_author.pdf)]
 [[github](https://github.com/snumrl/TimeCriticalResponse)]
 
+Stable Policy Optimization via Off-Policy Divergence Regularization
+[[paper](https://arxiv.org/pdf/2003.04108.pdf)]
+
 ## NLP
 
 LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention
