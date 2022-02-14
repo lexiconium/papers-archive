@@ -56,6 +56,9 @@ Natural Language Generation Using Reinforcement Learning with External Rewards
 ∞-former: Infinite Memory Transformer
 [[paper](https://arxiv.org/pdf/2109.00301.pdf)]
 
+Training language models to follow instructions with human feedback
+[[paper](https://cdn.openai.com/papers/Training_language_models_to_follow_instructions_with_human_feedback.pdf)]
+
 ## CV
 
 Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss
